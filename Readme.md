@@ -44,7 +44,7 @@ As a **Business Intelligence Analyst Intern**, I was tasked to:
 ![Trends Screenshot](./Screenshot%202025-08-21%20174548.png)  
 
 ### 📍 Forecasting & Regional Analysis  
-![Forecast Screenshot](./Screenshot%202025-08-22%20162352.png)  
+![Forecast Screenshot](./Screenshot%202025-08-22%20174548.png)  
 
 ---
 
