@@ -1,0 +1,91 @@
+//PowerBI Woekshop Day01
+
+Intro:- 
+PowerBI is used to collect transform visualize and share the data.
+
+Installation:- 
+Available free on microsoftStore.
+
+componenets of powerbi:- 
+1. DataSet:- The set of data that should be import and clean.
+2.DashBoard:- The Data viewing part.
+
+Connections in powerbi:-
+1.Impoerting Connection:- fetching data from saved files like excel
+2.Live connection:- Connect with direct databses so that the analytics changes on 
+regular basis like ecom sales dashboards
+
+powerbi workflow:-
+1.Connect to the Data
+2.Transform and clean data using a powerQuery
+3.load the data in powerbi
+4.create visuals like charts and tables
+5.publish to powerbi service and share with others.
+
+DataModeling:-
+1.Implementing the data storing structure like in databases
+relation is use b/w tables so gathering inshights based on them
+
+Tools:-
+🔹 What is DAX?
+
+DAX (Data Analysis Expressions) is the formula language used in Power BI, Power Pivot, and SSAS Tabular Models.
+Think of it like Excel formulas but supercharged for data modeling.
+
+It lets you:
+
+Create custom calculations (e.g., sales growth, running totals, averages).
+Build calculated columns, measures, and calculated tables.
+Work with time intelligence (e.g., year-to-date, month-to-month comparisons).
+
+Report View:- White Canvas where you design dashboards
+Dataview:- Table view of DataSet
+Modelview:- Daigram showing realtionship
+FieldPlanes:- All tables & colums
+VisualisationPlane:- Where you choose types of charts
+filterPlane:- Decide what to show
+
+
+//PowerBI Day02
+
+DAX:- Data analysis expretions
+
+powerBi acessbility at different platforms
+
+pone/tablet:- view only
+webBrowser:- limited editing
+Dekstop:- all Available
+
+
+Optimization:- Yes the major advantage of powerBi we can use large-large dataset without any 
+peroformance ovewhead
+
+
+//Project Start:-
+
+objective:-
+You are hired as a Business Intelligence Analyst in an organization. Your manager has asked you to 
+create an interactive Power BI dashboard to provide insights into a real-world business scenario. The 
+dashboard should help stakeholders make data-driven decisions by analyzing trends, performance, 
+and key metrics. 
+
+You are free to choose any dataset (Sales, HR, Education, Healthcare, Finance, Sports, etc.), but it 
+must be relevant, contain multiple tables, and have at least 200 rows of data.
+
+Description:-
+
+DashBoard Creation:- Identify the kPIS, desing an intutive and visually appealing dashboard, add interactive visualizations 
+and filtering capabilities to allow users to explore the data at various levels of granularity
+
+Data Analysis: Provide valuable  inshights to business entities regarding the effectiveness of their sales strategies through
+visualization and charts
+
+sales Forecasting:- Leverage historic data and apply time series analysis to generate sales forecasting for next 15 days 
+
+Actionable inshights and Recomandations:- End goal is to share valuable inshights and actionable information that can drive strategic 
+decision-making and support the supermarkets goals for growth efficiency and customer satisfaction
+
+
+
+
+
