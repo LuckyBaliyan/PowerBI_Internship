@@ -81,5 +81,5 @@ As a **Business Intelligence Analyst Intern**, I was tasked to:
 
 2. **Clone or Download this Repository**  
    ```bash
-   git clone <your-repo-link>
-   cd <your-repo-folder>
+   git clone <repo-link>
+   cd <repo-folder>
